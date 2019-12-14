@@ -1,0 +1,59 @@
+package assignment3;
+import java.util.Scanner;
+
+public class NumCount {
+
+
+		public static void main(String[] args) {
+			
+			//welcome message
+			System.out.println("this program counts the number of digits in an integer entered by the user");
+			System.out.println("Enter -1 to exit");
+			
+			//data variables
+			int number=0;
+			int a = 0;
+			
+			//scanner
+			Scanner sc = new Scanner(System.in);
+			
+			
+			//while loop that iterates when a is not -1
+				//while (a != -1) {
+				
+					System.out.print("\n" + "enter a number: ");
+					
+					number = sc.nextInt();
+					// setting a as a constant
+				 a = number;
+				
+				//counting number of numbers
+			int count = 0;
+			while (number != 0) {
+				//divide number by 10
+				number = number /= 10;
+				//counting number of times the number can be divided by ten
+				count ++ ;
+			
+				}
+				
+				//statement if number entered by user is -1
+				if  (a == -1) {
+				System.out.print("Program Terminated");
+				}
+				//statement printed when number entered is not -1
+				else {
+				System.out.println ("number of digits in " +a+ " is: "+ count);
+				}
+				}
+				//sc.close();
+				}
+		//}
+
+
+
+
+		
+		
+
+	

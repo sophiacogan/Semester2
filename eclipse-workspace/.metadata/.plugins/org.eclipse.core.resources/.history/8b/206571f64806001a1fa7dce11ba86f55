@@ -1,0 +1,68 @@
+package assignment8;
+
+import java.io.Serializable;
+
+public abstract class SalesEmployee  implements Serializable{
+	
+	
+	private String firstName;
+	private String lastName;
+	private static int bikeEmployeeNumber;
+	private String ppsNumber;
+	protected double sales;
+	protected double commission;
+	private int employeeNumber;
+
+
+ public  SalesEmployee(){
+	 firstName = "unassigned";
+	 lastName ="unassigned";
+	 bikeEmployeeNumber = 0;
+	 ppsNumber = "unassigned";
+	 sales = 0.0;
+	 commission = 0.0;
+	 employeeNumber = 0;
+ }
+	 
+	 public SalesEmployee(String firstName, String lastName, String ppsNumber) {
+	  this.firstName = firstName;
+	  this.lastName = lastName;
+	  this.ppsNumber = ppsNumber;
+	 }
+	 
+	 public void setFirstName(String fName) {
+		firstName = fName;
+	 }
+	 public void setLastName(String lName) {
+		 lastName= lName;
+	 }
+	 public void setPPS(String pps) {
+		 ppsNumber = pps;
+	 }
+	 
+	 public String getFirstName() {
+		 return firstName;
+	 }
+	 public String getLastName() {
+		 return lastName;
+	 }
+	 
+	 public String getPPS() {
+		 return ppsNumber;
+	 }
+	 public int getEmployeeNumber() {
+		 return employeeNumber;
+	 }
+	 
+	 @Override
+	 public String toString() {
+		 return "\n" +"First Name: "+ firstName + "\n"+ "Last Name: "+ lastName + "\n"+ "PPS Number: "+ppsNumber ;
+	 }
+		 
+		abstract void calculateCommission();
+		 
+	 
+			 
+	
+
+}

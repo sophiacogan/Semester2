@@ -1,0 +1,73 @@
+package assignment8;
+
+import java.io.Serializable;
+
+public abstract class SalesEmployee  implements Serializable{
+	
+	//declaring data members
+	private String firstName;
+	private String lastName;
+	private static int bikeEmployeeNumber;
+	private String ppsNumber;
+	protected double sales;
+	protected double commission;
+	private int employeeNumber;
+
+//Constructor
+ public  SalesEmployee(){
+	 firstName = "unassigned";
+	 lastName ="unassigned";
+	 bikeEmployeeNumber = 0;
+	 ppsNumber = "unassigned";
+	 sales = 0.0;
+	 commission = 0.0;
+	 employeeNumber = 0;
+ }
+	 //Overloaded Constructor
+	 public SalesEmployee(String firstName, String lastName, String ppsNumber) {
+	  this.firstName = firstName;
+	  this.lastName = lastName;
+	  this.ppsNumber = ppsNumber;
+	 }
+	 
+	 //Setter for First Name
+	 public void setFirstName(String fName) {
+		firstName = fName;
+	 }
+	 //Setter for Last Name
+	 public void setLastName(String lName) {
+		 lastName= lName;
+	 }
+	 //Setter for PPS Number
+	 public void setPPS(String pps) {
+		 ppsNumber = pps;
+	 }
+	 //Getter for First Name
+	 public String getFirstName() {
+		 return firstName;
+	 }
+	 //Getter for Last Name
+	 public String getLastName() {
+		 return lastName;
+	 }
+	 //Getter for PPS number
+	 public String getPPS() {
+		 return ppsNumber;
+	 }
+	 //Getter for EmployeeNumber
+	 public int getEmployeeNumber() {
+		 return employeeNumber;
+	 }
+	 //Override To String Method
+	 @Override
+	 public String toString() {
+		 return "\n" +"First Name: "+ firstName + "\n"+ "Last Name: "+ lastName + "\n"+ "PPS Number: "+ppsNumber +"sales "+sales+ "salesC+ salesCommission"  ;
+	 }
+		//calculate Commission overrided in subclass
+		abstract void calculateCommission();
+		 
+	 
+			 
+	
+
+}

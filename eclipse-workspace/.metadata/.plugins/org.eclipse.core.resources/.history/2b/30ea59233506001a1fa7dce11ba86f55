@@ -1,0 +1,25 @@
+package assignment8;
+
+public class SalesPerson extends SalesEmployee {
+	private static final long serialVersionUID = 1L;
+	
+	public SalesPerson() {
+		super();
+		
+	}
+	public SalesPerson (String firstName, String lastName, String ppsNumber) {
+		super(firstName,lastName,ppsNumber);
+		
+		
+		  
+	}
+	public void calculateCommision() {
+		salesCommission = 0.15;
+		sales = sales *salesCommission; 
+		setSales(sales);
+	}
+	
+		
+	}
+	
+
