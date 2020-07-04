@@ -1,0 +1,315 @@
+
+---------------------------Day 1 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #1 just appeared with a yellow car, with registration 12-KY-207 worth €3362 to sell 
+Seller #1 sold their yellow car, with registration 12-KY-207 worth €3362 to the showroom 
+this is sale number #1
+
+
+---------------------------Day 2 beginning---------------------------
+There are 1 cars in the showroom today 
+
+A new seller #2 just appeared with a yellow car, with registration 14-MO-3857 worth €1096 to sell 
+Seller #2 sold their yellow car, with registration 14-MO-3857 worth €1096 to the showroom 
+this is sale number #2
+
+A new buyer #1 just appeared 
+Buyer 1 bought yellow car, with registration 12-KY-207 worth €3362 from the showroom
+
+---------------------------Day 3 beginning---------------------------
+There are 1 cars in the showroom today 
+
+A new seller #3 just appeared with a yellow car, with registration 14-KY-1413 worth €3564 to sell 
+Seller #3 sold their yellow car, with registration 14-KY-1413 worth €3564 to the showroom 
+this is sale number #3
+
+A new buyer #2 just appeared 
+Buyer 2 bought yellow car, with registration 14-MO-3857 worth €1096 from the showroom
+
+---------------------------Day 4 beginning---------------------------
+There are 1 cars in the showroom today 
+
+A new seller #4 just appeared with a green car, with registration 18-LH-6624 worth €9994 to sell 
+Seller #4 sold their green car, with registration 18-LH-6624 worth €9994 to the showroom 
+this is sale number #4
+
+
+---------------------------Day 5 beginning---------------------------
+There are 2 cars in the showroom today 
+
+A new seller #5 just appeared with a yellow car, with registration 17-MH-5912 worth €8596 to sell 
+Seller #5 sold their yellow car, with registration 17-MH-5912 worth €8596 to the showroom 
+this is sale number #5
+
+A new seller #6 just appeared with a black car, with registration 02-L-6811 worth €8522 to sell 
+Seller #6 sold their black car, with registration 02-L-6811 worth €8522 to the showroom 
+this is sale number #6
+
+A new buyer #3 just appeared 
+Buyer 3 bought yellow car, with registration 14-KY-1413 worth €3564 from the showroom
+
+---------------------------Day 6 beginning---------------------------
+There are 3 cars in the showroom today 
+
+A new seller #7 just appeared with a yellow car, with registration 15-CW-4763 worth €5756 to sell 
+Seller #7 sold their yellow car, with registration 15-CW-4763 worth €5756 to the showroom 
+this is sale number #7
+
+A new seller #8 just appeared with a pink car, with registration 11-KK-4089 worth €19400 to sell 
+Seller #8 sold their pink car, with registration 11-KK-4089 worth €19400 to the showroom 
+this is sale number #8
+
+A new buyer #4 just appeared 
+Buyer 4 bought green car, with registration 18-LH-6624 worth €9994 from the showroom
+A new buyer #5 just appeared 
+Buyer 5 bought yellow car, with registration 17-MH-5912 worth €8596 from the showroom
+
+---------------------------Day 7 beginning---------------------------
+There are 3 cars in the showroom today 
+
+A new buyer #6 just appeared 
+Buyer 6 bought black car, with registration 02-L-6811 worth €8522 from the showroom
+A new buyer #7 just appeared 
+Buyer 7 bought yellow car, with registration 15-CW-4763 worth €5756 from the showroom
+
+---------------------------Day 8 beginning---------------------------
+There are 1 cars in the showroom today 
+
+A new buyer #8 just appeared 
+Buyer 8 bought pink car, with registration 11-KK-4089 worth €19400 from the showroom
+
+---------------------------Day 9 beginning---------------------------
+There are 0 cars in the showroom today 
+
+
+---------------------------Day 10 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #9 just appeared with a green car, with registration 08-SO-723 worth €10014 to sell 
+Seller #9 sold their green car, with registration 08-SO-723 worth €10014 to the showroom 
+this is sale number #9
+
+A new buyer #9 just appeared 
+Buyer 9 bought green car, with registration 08-SO-723 worth €10014 from the showroom
+
+---------------------------Day 11 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #10 just appeared with a white car, with registration 06-SO-5894 worth €9559 to sell 
+Seller #10 sold their white car, with registration 06-SO-5894 worth €9559 to the showroom 
+this is sale number #10
+
+A new seller #11 just appeared with a white car, with registration 06-KK-5529 worth €15529 to sell 
+Seller #11 sold their white car, with registration 06-KK-5529 worth €15529 to the showroom 
+this is sale number #11
+
+
+---------------------------Day 12 beginning---------------------------
+There are 2 cars in the showroom today 
+
+A new buyer #10 just appeared 
+Buyer 10 bought white car, with registration 06-SO-5894 worth €9559 from the showroom
+A new buyer #11 just appeared 
+Buyer 11 bought white car, with registration 06-KK-5529 worth €15529 from the showroom
+
+---------------------------Day 13 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #12 just appeared with a white car, with registration 05-L-6429 worth €14370 to sell 
+Seller #12 sold their white car, with registration 05-L-6429 worth €14370 to the showroom 
+this is sale number #12
+
+A new seller #13 just appeared with a pink car, with registration 15-MO-5273 worth €19870 to sell 
+Seller #13 sold their pink car, with registration 15-MO-5273 worth €19870 to the showroom 
+this is sale number #13
+
+A new buyer #12 just appeared 
+Buyer 12 bought white car, with registration 05-L-6429 worth €14370 from the showroom
+A new buyer #13 just appeared 
+Buyer 13 bought pink car, with registration 15-MO-5273 worth €19870 from the showroom
+
+---------------------------Day 14 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #14 just appeared with a pink car, with registration 04-TN-4099 worth €7547 to sell 
+Seller #14 sold their pink car, with registration 04-TN-4099 worth €7547 to the showroom 
+this is sale number #14
+
+
+---------------------------Day 15 beginning---------------------------
+There are 1 cars in the showroom today 
+
+A new buyer #14 just appeared 
+Buyer 14 bought pink car, with registration 04-TN-4099 worth €7547 from the showroom
+A new buyer #15 just appeared 
+Buyer #15 wants to buy a car but the showroom is empty 
+
+---------------------------Day 16 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #15 just appeared with a yellow car, with registration 05-KK-8709 worth €17043 to sell 
+Seller #15 sold their yellow car, with registration 05-KK-8709 worth €17043 to the showroom 
+this is sale number #15
+
+Buyer 15 bought yellow car, with registration 05-KK-8709 worth €17043 from the showroom
+A new seller #16 just appeared with a yellow car, with registration 08-WW-1595 worth €12210 to sell 
+Seller #16 sold their yellow car, with registration 08-WW-1595 worth €12210 to the showroom 
+this is sale number #16
+
+
+---------------------------Day 17 beginning---------------------------
+There are 1 cars in the showroom today 
+
+A new seller #17 just appeared with a pink car, with registration 01-LM-5005 worth €7393 to sell 
+Seller #17 sold their pink car, with registration 01-LM-5005 worth €7393 to the showroom 
+this is sale number #17
+
+A new buyer #16 just appeared 
+Buyer 16 bought yellow car, with registration 08-WW-1595 worth €12210 from the showroom
+
+---------------------------Day 18 beginning---------------------------
+There are 1 cars in the showroom today 
+
+A new seller #18 just appeared with a black car, with registration 16-OY-4931 worth €1595 to sell 
+Seller #18 sold their black car, with registration 16-OY-4931 worth €1595 to the showroom 
+this is sale number #18
+
+A new buyer #17 just appeared 
+Buyer 17 bought pink car, with registration 01-LM-5005 worth €7393 from the showroom
+
+---------------------------Day 19 beginning---------------------------
+There are 1 cars in the showroom today 
+
+A new seller #19 just appeared with a pink car, with registration 15-OY-1372 worth €12787 to sell 
+Seller #19 sold their pink car, with registration 15-OY-1372 worth €12787 to the showroom 
+this is sale number #19
+
+A new seller #20 just appeared with a yellow car, with registration 06-CE-920 worth €1384 to sell 
+Seller #20 sold their yellow car, with registration 06-CE-920 worth €1384 to the showroom 
+this is sale number #20
+
+A new buyer #18 just appeared 
+Buyer 18 bought black car, with registration 16-OY-4931 worth €1595 from the showroom
+
+---------------------------Day 20 beginning---------------------------
+There are 2 cars in the showroom today 
+
+A new seller #21 just appeared with a black car, with registration 06-W-2040 worth €18541 to sell 
+Seller #21 sold their black car, with registration 06-W-2040 worth €18541 to the showroom 
+this is sale number #21
+
+A new buyer #19 just appeared 
+Buyer 19 bought pink car, with registration 15-OY-1372 worth €12787 from the showroom
+
+---------------------------Day 21 beginning---------------------------
+There are 2 cars in the showroom today 
+
+A new buyer #20 just appeared 
+Buyer 20 bought yellow car, with registration 06-CE-920 worth €1384 from the showroom
+A new buyer #21 just appeared 
+Buyer 21 bought black car, with registration 06-W-2040 worth €18541 from the showroom
+
+---------------------------Day 22 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new buyer #22 just appeared 
+Buyer #22 wants to buy a car but the showroom is empty 
+
+---------------------------Day 23 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #22 just appeared with a white car, with registration 12-DL-47 worth €12483 to sell 
+Seller #22 sold their white car, with registration 12-DL-47 worth €12483 to the showroom 
+this is sale number #22
+
+Buyer 22 bought white car, with registration 12-DL-47 worth €12483 from the showroom
+A new seller #23 just appeared with a black car, with registration 17-SO-7269 worth €2575 to sell 
+Seller #23 sold their black car, with registration 17-SO-7269 worth €2575 to the showroom 
+this is sale number #23
+
+A new buyer #23 just appeared 
+Buyer 23 bought black car, with registration 17-SO-7269 worth €2575 from the showroom
+A new buyer #24 just appeared 
+Buyer #24 wants to buy a car but the showroom is empty 
+
+---------------------------Day 24 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #24 just appeared with a black car, with registration 06-MO-3986 worth €10639 to sell 
+Seller #24 sold their black car, with registration 06-MO-3986 worth €10639 to the showroom 
+this is sale number #24
+
+A new buyer #25 just appeared 
+Buyer 25 bought black car, with registration 06-MO-3986 worth €10639 from the showroom
+Buyer #24 wants to buy a car but the showroom is empty 
+A new buyer #26 just appeared 
+Buyer #26 wants to buy a car but the showroom is empty 
+
+---------------------------Day 25 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new buyer #27 just appeared 
+Buyer #27 wants to buy a car but the showroom is empty 
+
+---------------------------Day 26 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #25 just appeared with a pink car, with registration 14-W-2071 worth €12863 to sell 
+Seller #25 sold their pink car, with registration 14-W-2071 worth €12863 to the showroom 
+this is sale number #25
+
+Buyer 27 bought pink car, with registration 14-W-2071 worth €12863 from the showroom
+Buyer #26 wants to buy a car but the showroom is empty 
+A new seller #26 just appeared with a white car, with registration 04-C-4080 worth €7169 to sell 
+Seller #26 sold their white car, with registration 04-C-4080 worth €7169 to the showroom 
+this is sale number #26
+
+Buyer 24 bought white car, with registration 04-C-4080 worth €7169 from the showroom
+A new buyer #28 just appeared 
+Buyer #28 wants to buy a car but the showroom is empty 
+Buyer #26 wants to buy a car but the showroom is empty 
+
+---------------------------Day 27 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #27 just appeared with a pink car, with registration 00-LM-5715 worth €14663 to sell 
+Seller #27 sold their pink car, with registration 00-LM-5715 worth €14663 to the showroom 
+this is sale number #27
+
+Buyer 26 bought pink car, with registration 00-LM-5715 worth €14663 from the showroom
+Buyer #28 wants to buy a car but the showroom is empty 
+A new buyer #29 just appeared 
+Buyer #29 wants to buy a car but the showroom is empty 
+
+---------------------------Day 28 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new buyer #30 just appeared 
+Buyer #30 wants to buy a car but the showroom is empty 
+
+---------------------------Day 29 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new seller #28 just appeared with a black car, with registration 18-CW-3098 worth €1689 to sell 
+Seller #28 sold their black car, with registration 18-CW-3098 worth €1689 to the showroom 
+this is sale number #28
+
+Buyer 30 bought black car, with registration 18-CW-3098 worth €1689 from the showroom
+Buyer #29 wants to buy a car but the showroom is empty 
+A new seller #29 just appeared with a green car, with registration 18-D-1407 worth €1818 to sell 
+Seller #29 sold their green car, with registration 18-D-1407 worth €1818 to the showroom 
+this is sale number #29
+
+Buyer 28 bought green car, with registration 18-D-1407 worth €1818 from the showroom
+A new buyer #31 just appeared 
+Buyer #31 wants to buy a car but the showroom is empty 
+Buyer #29 wants to buy a car but the showroom is empty 
+
+---------------------------Day 30 beginning---------------------------
+There are 0 cars in the showroom today 
+
+A new buyer #32 just appeared 
+Buyer #32 wants to buy a car but the showroom is empty 
+A new buyer #33 just appeared 
+Buyer #33 wants to buy a car but the showroom is empty 
