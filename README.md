@@ -1,3 +1,1 @@
-# enterpriseJava
-# enterpriseJava
-# enterpriseJava
+Semester 2 projects
